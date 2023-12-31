@@ -1,11 +1,18 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("P_S Hub | 🎅 Pet Simulator 99! 🎅", "BloodTheme")
+local Window = Library.CreateLib("Premium PS99 HUB | :santa: Pet Simulator 99! :santa:", "BloodTheme")
 
 -- MAIN
-local Main = Window:NewTab("Trading Plaza")
-local MainSection = Main:NewSection("Booth Snipe")
+local Main = Window:NewTab("Exploits")
+local MainSection = Main:NewSection("Exploits")
 
-MainSection:NewButton("Tap to Config Settings - For Boothsnipe !", "Booth Snipe", function()
+MainSection:NewButton("Auto Staircase", "Exploits", function()
+MainSection:NewButton("Auto Gem Dupe", "Exploits", function()
+MainSection:NewButton("Auto Dupe All Pets", "Exploits", function()
+MainSection:NewButton("Booth Sniper", "Exploits", function()
+MainSection:NewButton("Trade Scam", "Exploits", function()
+MainSection:NewButton("Force Trade People", "Exploits", function()
+MainSection:NewButton("Change Pets Permanently", "Exploits", function()
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/panibugho/P_S-HUB/main/source", true))()
 

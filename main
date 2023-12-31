@@ -14,6 +14,6 @@ MainSection:NewButton("Force Trade People", "Exploits", function()
 MainSection:NewButton("Change Pets Permanently", "Exploits", function()
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/panibugho/P_S-HUB/main/source", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/panibugho/Premium-PS99-HUB/main/source", true))()
 
 end)

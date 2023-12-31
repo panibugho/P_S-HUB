@@ -3,7 +3,7 @@ local Window = Library.CreateLib("P_S Hub | 🎅 Pet Simulator 99! 🎅", "Blood
 
 -- MAIN
 local Main = Window:NewTab("Trading Plaza")
-local MainSection = Main:NewSection("Booth Snipe)
+local MainSection = Main:NewSection("Booth Snipe")
 
 MainSection:NewButton("Tap to Config Settings - For Boothsnipe !", "Booth Snipe", function()
 
